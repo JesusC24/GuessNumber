@@ -1,0 +1,21 @@
+<resources>
+    <string name="tvUser">Nombre</string>
+    <string name="tvNumIntentos">Número de intentos</string>
+    <string name="edUser">Escribe tu nombre</string>
+    <string name="edNumIntentos">Intentos</string>
+    <string name="btJugar">¡A jugar!</string>
+    <string name="edNumero">Introduce un número</string>
+    <string name="btComprobar">Comprobar</string>
+    <string name="btBorrar">Borrar</string>
+    <string name="tvAcertar">¡Has acertado!</string>
+    <string name="tvFallo">¡Has fallado!</string>
+    <string name="tvTotalIntentos">El número de intentos ha sido:</string>
+    <string name="tvNumCorrecto">El número era:</string>
+    <string name="app_name" translatable="false">GuessNumber</string>
+    <string name="msgErrorEntero">No has introducido un número entero</string>
+    <string name="msgCadenaVacia">No puede estar vacío el nombre</string>
+    <string name="msgNumMayor">El número es mayor</string>
+    <string name="msgNumMenor">El número es menor</string>
+
+
+</resources>

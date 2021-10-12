@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tvUser">Name</string>
+    <string name="tvNumIntentos">Number of attemps</string>
+    <string name="edUser">Write your name</string>
+    <string name="edNumIntentos">Attemps</string>
+    <string name="btJugar">Play!</string>
+    <string name="edNumero">Introduce a number</string>
+    <string name="btComprobar">Check</string>
+    <string name="btBorrar">Delete</string>
+    <string name="tvAcertar">You Win!</string>
+    <string name="tvFallo">You Lose</string>
+    <string name="tvTotalIntentos">the number of attempts has been:</string>
+    <string name="tvNumCorrecto">the number was:</string>
+    <string name="msgErrorEntero">You haven\'t introduce a number</string>
+    <string name="msgCadenaVacia">The name cannot be empty</string>
+    <string name="msgNumMenor">The number is smaller</string>
+    <string name="msgNumMayor">The number is bigger</string>
+</resources>
