@@ -14,8 +14,8 @@
     <string name="app_name" translatable="false">GuessNumber</string>
     <string name="msgErrorEntero">No has introducido un número entero</string>
     <string name="msgCadenaVacia">No puede estar vacío el nombre</string>
-    <string name="msgNumMayor">El número es mayor</string>
-    <string name="msgNumMenor">El número es menor</string>
+    <string name="msgNumMayor">El número probado es mayor que el buscado</string>
+    <string name="msgNumMenor">El número probado es mayor que el buscado</string>
 
 
 </resources>

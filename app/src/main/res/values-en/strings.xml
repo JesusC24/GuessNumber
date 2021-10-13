@@ -14,6 +14,6 @@
     <string name="tvNumCorrecto">the number was:</string>
     <string name="msgErrorEntero">You haven\'t introduce a number</string>
     <string name="msgCadenaVacia">The name cannot be empty</string>
-    <string name="msgNumMenor">The number is smaller</string>
-    <string name="msgNumMayor">The number is bigger</string>
+    <string name="msgNumMenor">The tested number is smaller than the searched number</string>
+    <string name="msgNumMayor">The tested number is bigger than the searched number</string>
 </resources>
